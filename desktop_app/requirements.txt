@@ -1,0 +1,18 @@
+# 3D姿态可视化桌面应用 - 依赖包列表
+
+# GUI框架
+PyQt5>=5.15.0
+
+# OpenGL 3D渲染
+PyOpenGL>=3.1.5
+PyOpenGL-accelerate>=3.1.5
+
+# HTTP请求
+requests>=2.28.0
+
+# 数值计算
+numpy>=1.21.0
+
+# 可选：数据可视化（用于曲线图）
+matplotlib>=3.5.0
+
